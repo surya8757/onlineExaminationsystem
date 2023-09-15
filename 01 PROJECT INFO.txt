@@ -1,5 +1,5 @@
 
-**Developed By Sanjay Kumar**
+**Developed By Surya Pratap**
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
